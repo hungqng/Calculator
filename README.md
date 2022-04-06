@@ -1,5 +1,5 @@
 # Calculator.JS
-- This is a calculator program that can be used for basic compute problems. It is based off calculator app on Windows.
+- This is a calculator program that can be used for basic computing problems. It is based on a calculator app on Windows.
 
 ## Built With:
 1. JavaScript
